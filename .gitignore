@@ -1,0 +1,15 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.dbmdl
+*.db
+*.mdf
+*.ldf
+*.sqlite
+appsettings.Development.json
+appsettings.*.json
+.env
