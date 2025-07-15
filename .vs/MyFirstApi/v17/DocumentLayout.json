@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ascom\\source\\repos\\MyFirstApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF087935-036D-403A-8F5A-6D17DEC78FC5}|MyFirstApi\\MyFirstApi.csproj|c:\\users\\ascom\\source\\repos\\myfirstapi\\myfirstapi\\models\\qaid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF087935-036D-403A-8F5A-6D17DEC78FC5}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\models\\qaid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF087935-036D-403A-8F5A-6D17DEC78FC5}|MyFirstApi\\MyFirstApi.csproj|c:\\users\\ascom\\source\\repos\\myfirstapi\\myfirstapi\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF087935-036D-403A-8F5A-6D17DEC78FC5}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF087935-036D-403A-8F5A-6D17DEC78FC5}|MyFirstApi\\MyFirstApi.csproj|c:\\users\\ascom\\source\\repos\\myfirstapi\\myfirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF087935-036D-403A-8F5A-6D17DEC78FC5}|MyFirstApi\\MyFirstApi.csproj|solutionrelative:myfirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\MyFirstApi\\MyFirstApi\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "MyFirstApi\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\MyFirstApi\\MyFirstApi\\Models\\Account.cs",
+              "RelativeToolTip": "MyFirstApi\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T17:54:05.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Qaid.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\MyFirstApi\\MyFirstApi\\Models\\Qaid.cs",
+              "RelativeDocumentMoniker": "MyFirstApi\\Models\\Qaid.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\MyFirstApi\\MyFirstApi\\Models\\Qaid.cs",
+              "RelativeToolTip": "MyFirstApi\\Models\\Qaid.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T17:53:33.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ascom\\source\\repos\\MyFirstApi\\MyFirstApi\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ascom\\source\\repos\\MyFirstApi\\MyFirstApi\\Program.cs",
+              "RelativeToolTip": "MyFirstApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:57:31.445Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
